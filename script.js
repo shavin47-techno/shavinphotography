@@ -1,8 +1,8 @@
 /* =====================  EDIT THIS SECTION  ===================== */
 const CONFIG={
   formEndpoint:"",  // paste your Formspree / Web3Forms URL here, e.g. "https://formspree.io/f/xxxxxxx"
-  whatsapp:"",      // e.g. "255700000000" (country code, no + or spaces)
-  email:""          // your public email
+  whatsapp:"+255 620 156 129",      // e.g. "255700000000" (country code, no + or spaces)
+  email:"shavintechno@gmail.com"          // your public email
 };
 /* PHOTOS: upload files into the /images folder, then add one line per photo here.
    Delete a line to remove a photo. Move lines to reorder.
