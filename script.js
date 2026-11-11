@@ -21,7 +21,8 @@ const IMAGES=[
 ];
 /* TESTIMONIALS: replace with REAL client feedback (with permission). Delete a block to remove it. */
 const TESTIMONIALS=[
- {quote:"[Edit: paste a real client testimonial here.]",name:"[Client name]",role:"[Company or role]"},
+ {quote:"[Shavin Photography made our wedding day feel effortless. He was relaxed, professional, and somehow captured moments we didn’t even realize were happening. When the photos arrived, we were in tears. 
+   Every image felt natural and full of emotion. We couldn’t have asked for a better photographer.]",name:"[Amina & Joseph]",role:"[MWANZA]"},
  {quote:"[Edit: paste a second real client testimonial here.]",name:"[Client name]",role:"[Company or role]"},
  {quote:"[Edit: paste a third real client testimonial here.]",name:"[Client name]",role:"[Company or role]"}
 ];
