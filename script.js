@@ -22,9 +22,12 @@ const IMAGES=[
 /* TESTIMONIALS: replace with REAL client feedback (with permission). Delete a block to remove it. */
 const TESTIMONIALS=[
  {quote:"[Shavin Photography made our wedding day feel effortless. He was relaxed, professional, and somehow captured moments we didn’t even realize were happening. When the photos arrived, we were in tears. 
-   Every image felt natural and full of emotion. We couldn’t have asked for a better photographer.]",name:"[Amina & Joseph]",role:"[MWANZA]"},
- {quote:"[Edit: paste a second real client testimonial here.]",name:"[Client name]",role:"[Company or role]"},
- {quote:"[Edit: paste a third real client testimonial here.]",name:"[Client name]",role:"[Company or role]"}
+   Every image felt natural and full of emotion. We couldn’t have asked for a better photographer.]",name:"[AMINAH & JOSEPH]",role:"[MWANZA]"},
+ {quote:"[I’ve always hated being photographed, but Shavin made me feel completely at ease. He took the time to chat, find my good angles, and bring out a side of me I’d never seen on camera.
+  My portraits look like me on my best day.]",name:"[ANNE]",role:"[BOT]"},
+ {quote:"[We joined Shavin for a full-day safari shoot, and his patience was remarkable. He knew exactly where to position us for the best light and never rushed a moment, even when we waited an hour for a lion to stir.
+  The photos are stunning, and he made the whole trip more memorable. 
+  Highly recommend him to anyone visiting Tanzania.]",name:"[BREENAH]",role:"[CARNIVORES]"}
 ];
 /* ===================  END OF EDIT SECTION  =================== */
 
